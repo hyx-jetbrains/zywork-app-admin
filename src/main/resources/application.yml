@@ -1,0 +1,9 @@
+server:
+  port: 8086
+spring:
+  application:
+    name: zywork-app-admin
+  security:
+    user:
+      name: zywork-app
+      password: zywork-app.123654
